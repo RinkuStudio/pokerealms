@@ -19,4 +19,6 @@ Bienvenue sur le wiki officiel de **PokéRealms** !
 
 ---
 
+rédaction en cours
+
 *Dernière mise à jour : {{ now }}*
