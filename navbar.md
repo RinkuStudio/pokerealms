@@ -1,0 +1,4 @@
+- [🏠 Accueil](/)
+- [📖 GitHub](https://github.com/RinkuStudio/pokerealms)
+- [🐛 Issues](https://github.com/RinkuStudio/pokerealms/issues)
+- [⭐ Star](https://github.com/RinkuStudio/pokerealms/stargazers)
